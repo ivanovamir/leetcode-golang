@@ -22,7 +22,7 @@ func containsDuplicate(nums []int) bool {
 	return false
 }
 
-// Solutio 2:
+// Solution 2:
 //func containsDuplicate(nums []int) bool {
 //	if len(nums) <= 1 {
 //		return false
